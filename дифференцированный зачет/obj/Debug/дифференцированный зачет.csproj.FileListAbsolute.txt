@@ -1,0 +1,24 @@
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\bin\Debug\дифференцированный зачет.exe.config
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\bin\Debug\дифференцированный зачет.exe
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\bin\Debug\дифференцированный зачет.pdb
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.csproj.AssemblyReference.cache
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\MainWindow.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\App.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет_MarkupCompile.cache
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет_MarkupCompile.lref
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\MainWindow.baml
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.g.resources
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный_зачет.Properties.Resources.resources
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.csproj.GenerateResource.cache
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.csproj.CoreCompileInputs.cache
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.exe
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\дифференцированный зачет.pdb
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window1.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window1.baml
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Page1.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Page1.baml
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window2.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window2.baml
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window3.g.cs
+C:\Users\User_10\Desktop\ПРИКОЛ\дифференцированный зачет\obj\Debug\Window3.baml

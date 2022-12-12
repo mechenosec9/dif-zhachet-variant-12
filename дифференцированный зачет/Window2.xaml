@@ -1,0 +1,25 @@
+﻿<Window x:Class="дифференцированный_зачет.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:дифференцированный_зачет"
+        mc:Ignorable="d"
+        Title="Главная страница" Height="450" Width="350">
+    <Grid Background="beige">
+        <Button HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="56" Click="Button_Click">
+            <Image Source="/setting-icon-isolated-on-white-background-setting-vector-25322705.jpg" Stretch="Fill" Height="36" Width="48"/>
+        </Button>
+        <Button Content="?" HorizontalAlignment="Left" Margin="314,0,0,0" VerticalAlignment="Top" Height="28" Width="36"/>
+        <Label Content="Общий баланс" HorizontalAlignment="Left" Height="26" Margin="10,63,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button Content="Пополнить" HorizontalAlignment="Left" Height="26" Margin="262,63,0,0" VerticalAlignment="Top" Width="70"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="28,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53"/>
+        <TextBox HorizontalAlignment="Center" Height="68" Margin="0,132,0,0" TextWrapping="Wrap" Text=" С &quot;Сотсетью Шампунь&quot; всего за 12 копеек в день вы можете &#xD;&#xA;           читать онлайн-версии платных журналов" VerticalAlignment="Top" Width="350" TextChanged="TextBox_TextChanged"/>
+        <Button Content="Подробнее" HorizontalAlignment="Left" Height="34" Margin="104,166,0,0" VerticalAlignment="Top" Width="122"/>
+        <GroupBox HorizontalAlignment="Center" Height="139" Header="Ваш тариф: &quot;Шам&quot;" Margin="0,228,0,0" VerticalAlignment="Top" Width="330"/>
+        <Label Content="Баланс на сегодня" HorizontalAlignment="Left" Height="24" Margin="10,343,0,0" VerticalAlignment="Top" Width="114"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="28,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+        <Button Content="Пополнить" HorizontalAlignment="Left" Height="36" Margin="175,284,0,0" VerticalAlignment="Top" Width="95" FontSize="20"/>
+
+    </Grid>
+</Window>
